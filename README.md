@@ -9,10 +9,6 @@ Roomable is a mobile application that displays real-time availability of study r
 - Room details including capacity and amenities
 - Sensor data visualization (distance and sound levels)
 
-## Screenshots
-
-(Screenshots will go here)
-
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:

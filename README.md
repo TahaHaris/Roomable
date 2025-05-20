@@ -11,9 +11,6 @@ Roomable is a mobile application that displays real-time availability of study r
 
 ## Screenshots
 
-### Home Screen  
-![Home Screen](Assets/Roomable-Overview.png)
-
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:

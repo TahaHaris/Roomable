@@ -11,8 +11,14 @@ Roomable is a mobile application that displays real-time availability of study r
 
 ## Screenshots
 
-## Home Screen
+### Home Screen  
 ![Home Screen](https://raw.githubusercontent.com/TahaHaris/Roomable/main/Roomable-Overview.png)
+
+### Floor View  
+![Floor View](https://raw.githubusercontent.com/TahaHaris/Roomable/main/roomable-floor.png)
+
+### Room Details  
+![Room Details](https://raw.githubusercontent.com/TahaHaris/Roomable/main/roomable-roomdetails.png)
 
 
 ## Prerequisites

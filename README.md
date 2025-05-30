@@ -6,7 +6,7 @@
 
 * **Real-time Availability:** Track study room occupancy status instantly.
 * **Intuitive Navigation:** Floor-based interface to quickly find available rooms.
-* **Detailed Room Info:** View capacity, amenities, and live sensor data (distance, sound levels).
+* **Detailed Room Info:** View capacity, amenities, and live sensor data (distance and sound levels).
 * **Mobile-First Design:** Optimized for a seamless experience on iOS and Android devices.
 
 ## 🛠️ Tech Stack
@@ -32,6 +32,16 @@
 ## 💡 Project Overview & Impact
 
 Roomable addresses the common challenge students face in finding available study spaces on a busy university campus. By leveraging real-time sensor data and a mobile-first approach, it transforms the user experience from guesswork to instant, informed decision-making. This project demonstrates the integration of IoT concepts with robust mobile application development and cloud-based backend services to solve a practical, everyday problem.
+
+## 🤖 Hardware System
+
+The real-time availability data for Roomable is collected by an integrated hardware system. Each study room is equipped with:
+
+* **Microcontroller:** An **ESP32** (or similar Wi-Fi enabled microcontroller) is used to process sensor readings and transmit data.
+* **Ultrasonic Sensor (e.g., HC-SR04):** Measures distance to detect occupancy. If an object (like a person) is within a certain range, the room is considered occupied.
+* **Sound Sensor:** Monitors ambient noise levels within the room, providing additional context to occupancy status.
+
+This hardware continuously gathers data, which is then sent to the Firebase Realtime Database to update the mobile application in real-time.
 
 ## ⚡ Quick Start
 

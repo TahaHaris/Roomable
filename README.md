@@ -83,12 +83,6 @@ For comprehensive instructions on installing prerequisites (Node.js, Expo CLI, A
 4.  Push to the branch (`git push origin feature/amazing-feature`).
 5.  Open a Pull Request.
 
-## 📄 License
+## Author
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-* [Expo](https://expo.dev)
-* [React Native](https://reactnative.dev)
-* [Firebase](https://firebase.google.com)
+Made by Neil Agarwal and Taha Haris
